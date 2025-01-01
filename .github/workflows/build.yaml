@@ -30,7 +30,7 @@ jobs:
           cp pack.toml rel/
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Curseforge
           path: |
