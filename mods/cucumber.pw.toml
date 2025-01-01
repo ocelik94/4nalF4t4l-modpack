@@ -1,0 +1,13 @@
+name = "Cucumber Library"
+filename = "Cucumber-1.21.1-8.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bddc93e883edda53dbd3f022fd6902ada7f30c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5920855
+project-id = 272335

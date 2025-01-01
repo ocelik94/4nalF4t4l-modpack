@@ -1,0 +1,13 @@
+name = "Hopo Better Ruined Portals (Fabric/Forge/NeoForge)"
+filename = "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6943ec2bbf4ef3dadc9df79574347771d71805c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5840938
+project-id = 632624

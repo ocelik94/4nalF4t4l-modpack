@@ -1,0 +1,13 @@
+name = "4nalf4t4l"
+author = "Okan Celik"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b874662adb72f69e68ab1c6a65232fc0f21affbd09150de8e34405bdece2a8d1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.92"

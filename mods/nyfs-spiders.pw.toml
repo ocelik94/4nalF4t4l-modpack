@@ -1,0 +1,13 @@
+name = "Nyf's Spiders"
+filename = "nyfsspiders-neoforge-1.21-2.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b99f03a1802d423bb97e62e155aafa9b5e631b27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5651856
+project-id = 686058
